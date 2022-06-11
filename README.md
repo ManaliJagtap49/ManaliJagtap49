@@ -1,7 +1,7 @@
 
 <h1 align="">Hi I'm MANALI NITIN JAGTAP,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
 
-<img src="jagtap.png" alt="manali" width="2000" height="250">
+<img src="https://cdn.neow.in/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg" alt="manali" width="1000" height="450">
 
 </p align="center">
 <img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/jetpacktocat.png" />
