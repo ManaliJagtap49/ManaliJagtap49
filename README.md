@@ -1,8 +1,8 @@
-<!--  https://ritik307.github.io/portfolio/  -->
+
 <h1 align="">Hi I'm MANALI NITIN JAGTAP,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
 
-<p align="center">
- 
+<img src="jagtap.png" alt="manali" width="2000" height="250">
+
 </p align="center">
 <img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/jetpacktocat.png" />
 
