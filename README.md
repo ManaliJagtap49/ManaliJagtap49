@@ -7,7 +7,7 @@
 
 
 <p align="center">
-I'm a 2nd year student pursuing Bachelors Degree in Computer Engineering 🎓 from AC Patil College of engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm working on Web 🕸️ Development.
+I'm a 3rd year student pursuing Bachelors Degree in Computer Engineering 🎓 from AC Patil College of engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm working on Web 🕸️ Development.
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
