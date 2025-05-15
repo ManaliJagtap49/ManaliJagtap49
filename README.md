@@ -7,7 +7,7 @@
 
 
 <p align="center">
-I'm a 3rd year student pursuing Bachelors Degree in Computer Engineering 🎓 from AC Patil College of engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm working on Web 🕸️ Development.
+👋 Hi! I'm a Data Analyst Enthusiast with a B.Tech in Computer Engineering. I specialize in turning data into insights using Python, SQL, and Power BI. Passionate about analytics, automation, and solving real-world problems through data.
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
